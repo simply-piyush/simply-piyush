@@ -34,8 +34,8 @@ Motto:
 
 Connect With Me:
 
-<img  src="https://skillicons.dev/icons?i=linkedin" width="40"> LinkedIn: https://www.linkedin.com/in/piyush-singh007
+<img  src="https://skillicons.dev/icons?i=linkedin" width="20"> LinkedIn: https://www.linkedin.com/in/piyush-singh007
 
-<img src="https://skillicons.dev/icons?i=gmail"> Email: piyush.singh.formal@gmail.com
+<img src="https://skillicons.dev/icons?i=gmail" width="20"> Email: piyush.singh.formal@gmail.com
 
 ⭐ If you like what I do, feel free to explore my repositories!
