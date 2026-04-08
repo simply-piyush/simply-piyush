@@ -7,33 +7,34 @@ Building. Learning. Evolving.
 I’m someone who learns by building real things.
 
 
-📚 Preparing for GATE while strengthening core CS fundamentals
+Preparing for GATE while strengthening core CS fundamentals
 
-⚡ Turning ideas into projects instead of just thinking about them
+Turning ideas into projects instead of just thinking about them
 
-🔍 Curious about how things actually work under the hood
+Curious about how things actually work under the hood
 
-🛠️ Tech Stack
+Tech Stack
 <p> <img src="https://skillicons.dev/icons?i=html,css,ts,js,tailwind,react,nextjs,nodejs,express,mongodb,git" /> </p>
 
 ⚡ What Makes Me Different
 
-🤖 I treat AI as a tool to make my workflow faster, smoother and more efficent
+I treat AI as a tool to make my workflow faster, smoother and more efficent
 
-🧩 I focus on problem-solving + practical implementation
+I focus on problem-solving + practical implementation
 
-🚀 I prefer shipping projects over just consuming tutorials
+I prefer shipping projects over just consuming tutorials
 
-🎯 Current Focus
+Current Focus
 
 Building impactful dev projects
 
-⚙️ Motto:
+Motto:
 
 "Learn → Build → Break → Improve → Repeat"
 
-🌐 Connect With Me
-💼 LinkedIn: https://www.linkedin.com/in/piyush-singh007
-📧 Email: piyush.singh.formal@gmail.com
+Connect With Me
+
+<img src="https://skillicons.dev/icons?i=linkedin"> LinkedIn: https://www.linkedin.com/in/piyush-singh007
+<img src="https://skillicons.dev/icons?i=gmail"> Email: piyush.singh.formal@gmail.com
 
 ⭐ If you like what I do, feel free to explore my repositories!
