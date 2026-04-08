@@ -29,11 +29,9 @@ Motto:
 Connect With Me:
 
 <p align="">
-  <a href="https://www.linkedin.com/in/piyush-singh007">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <a href="https://www.linkedin.com/in/piyush-singh007"> 
   </a>
   <a href="mailto:piyush.singh.formal@gmail.com">
-    <img src="https://img.shields.io/badge/Email-BB001B?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
 ⭐ If you like what I do, feel free to explore my repositories!
