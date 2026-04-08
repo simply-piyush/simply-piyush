@@ -34,7 +34,7 @@ Motto:
 
 Connect With Me:
 
-<img size="10px" src="https://skillicons.dev/icons?i=linkedin"> LinkedIn: https://www.linkedin.com/in/piyush-singh007
+<img  src="https://skillicons.dev/icons?i=linkedin&perline=6"> LinkedIn: https://www.linkedin.com/in/piyush-singh007
 
 <img src="https://skillicons.dev/icons?i=gmail"> Email: piyush.singh.formal@gmail.com
 
