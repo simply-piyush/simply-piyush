@@ -9,7 +9,7 @@ Preparing for GATE while strengthening core CS fundamentals<br>
 Turning ideas into projects instead of just thinking about them<br>
 Curious about how things actually work under the hood<br>
 
-Tech Stack
+Tech Stack:
 <p> <img src="https://skillicons.dev/icons?i=html,css,ts,js,tailwind,react,nextjs,nodejs,express,mongodb,git" /> </p>
 
 What Makes Me Different:
@@ -28,7 +28,7 @@ Motto:
 
 Connect With Me:
 
-<p align="center">
+<p align="">
   <a href="https://www.linkedin.com/in/piyush-singh007">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
