@@ -1,5 +1,5 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F7FF&width=435&lines=AI+Enthusiast;Full+Stack+Learner;GATE+Aspirant;Always+Building+Something+Cool" />
-Hi there, I'm Piyush 
+Hi there, I'm Piyush \n
 Building. Learning. Evolving.
 I’m someone who learns by building real things.
 
