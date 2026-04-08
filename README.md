@@ -10,10 +10,7 @@ I’m someone who learns by building real things.
 ⚡ Turning ideas into projects instead of just thinking about them
 🔍 Curious about how things actually work under the hood
 🛠️ Tech Stack
-<p> <img src="https://skillicons.dev/icons?i=html,css,ts,js,react,nextjs,nodejs,mongodb,git,github,vscode" /> </p>
-📊 GitHub Stats
-
-🔥 Streak
+<p> <img src="https://skillicons.dev/icons?i=html,css,ts,js,tailwind,react,nextjs,nodejs,express,mongodb,git" /> </p>
 
 ⚡ What Makes Me Different
 🤖 I treat AI as a co-developer, not just a tool
@@ -21,18 +18,13 @@ I’m someone who learns by building real things.
 🚀 I prefer shipping projects over just consuming tutorials
 🎯 Current Focus
 Building impactful dev projects
-Mastering core CS for GATE
-Exploring AI-powered workflows
-🎮 Fun Zone (Inspired from standout READMEs)
-💡 Always experimenting with new tools
-🎯 Goal: Become a high-impact developer
 
 ⚙️ Motto:
 
 "Learn → Build → Break → Improve → Repeat"
 
 🌐 Connect With Me
-💼 LinkedIn: (add link)
-📧 Email: (add email)
+💼 LinkedIn: https://www.linkedin.com/in/piyush-singh007
+📧 Email: piyush.singh.formal@gmail.com
 
 ⭐ If you like what I do, feel free to explore my repositories!
