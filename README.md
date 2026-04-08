@@ -1,4 +1,4 @@
-🚀 Hi there, I'm Piyush 👋
+Hi there, I'm Piyush 
 Building. Learning. Evolving.
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F7FF&width=435&lines=AI+Enthusiast;Full+Stack+Learner;GATE+Aspirant;Always+Building+Something+Cool" />
 🧠 About Me
@@ -10,7 +10,7 @@ I’m someone who learns by building real things.
 ⚡ Turning ideas into projects instead of just thinking about them
 🔍 Curious about how things actually work under the hood
 🛠️ Tech Stack
-<p> <img src="https://skillicons.dev/icons?i=c,cpp,js,html,css,nodejs,mongodb,git,github,vscode" /> </p>
+<p> <img src="https://skillicons.dev/icons?i=html,css,ts,js,react,nextjs,nodejs,mongodb,git,github,vscode" /> </p>
 📊 GitHub Stats
 
 🔥 Streak
