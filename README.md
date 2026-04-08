@@ -4,25 +4,21 @@ Hi there, I'm Piyush
 Building. Learning. Evolving.
 
 
-I’m someone who learns by building real things.
-
-
-Preparing for GATE while strengthening core CS fundamentals
-
-Turning ideas into projects instead of just thinking about them
-
-Curious about how things actually work under the hood
+I’m someone who learns by building real things.<br>
+Preparing for GATE while strengthening core CS fundamentals<br>
+Turning ideas into projects instead of just thinking about them<br>
+Curious about how things actually work under the hood<br>
 
 Tech Stack
 <p> <img src="https://skillicons.dev/icons?i=html,css,ts,js,tailwind,react,nextjs,nodejs,express,mongodb,git" /> </p>
 
-⚡ What Makes Me Different
+What Makes Me Different:
 
 I treat AI as a tool to make my workflow faster, smoother and more efficent<br>
 I focus on problem-solving + practical implementation<br>
-I prefer shipping projects over just consuming tutorials<br><br>
+I prefer shipping projects over just consuming tutorials<br>
 
-Current Focus
+Current Focus:
 
 Building impactful dev projects
 
