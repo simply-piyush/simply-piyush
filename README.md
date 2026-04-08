@@ -29,6 +29,6 @@ Motto:
 Connect With Me:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/piyush-singh007)
-[![Email](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail)](mailto:piyush.singh.formal@gmail.com)
+[![Email](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail)](mailto:piyush.singh.formal@gmail.com) 
 
 ⭐ If you like what I do, feel free to explore my repositories!
