@@ -7,7 +7,6 @@ Building. Learning. Evolving.
 I’m someone who learns by building real things.
 
 
-💻 I use AI daily to debug, optimize, and accelerate development
 📚 Preparing for GATE while strengthening core CS fundamentals
 ⚡ Turning ideas into projects instead of just thinking about them
 🔍 Curious about how things actually work under the hood
