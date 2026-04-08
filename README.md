@@ -18,9 +18,9 @@ Tech Stack
 
 ⚡ What Makes Me Different
 
-I treat AI as a tool to make my workflow faster, smoother and more efficent
-I focus on problem-solving + practical implementation
-I prefer shipping projects over just consuming tutorials
+I treat AI as a tool to make my workflow faster, smoother and more efficent<br>
+I focus on problem-solving + practical implementation<br>
+I prefer shipping projects over just consuming tutorials<br><br>
 
 Current Focus
 
