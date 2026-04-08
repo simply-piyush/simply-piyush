@@ -32,9 +32,10 @@ Motto:
 
 "Learn → Build → Break → Improve → Repeat"
 
-Connect With Me
+Connect With Me:
 
 <img src="https://skillicons.dev/icons?i=linkedin"> LinkedIn: https://www.linkedin.com/in/piyush-singh007
+
 <img src="https://skillicons.dev/icons?i=gmail"> Email: piyush.singh.formal@gmail.com
 
 ⭐ If you like what I do, feel free to explore my repositories!
